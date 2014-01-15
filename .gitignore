@@ -1,0 +1,11 @@
+*AppleDouble*
+*swp
+*.o
+*dSYM
+*log
+*pem
+*key
+*gz
+*tar
+*afp
+createHashFiles.sh
